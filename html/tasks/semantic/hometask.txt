@@ -1,3 +1,4 @@
-1. Create your virtual résumé webpage using only semantic elements.
+1. Create your virtual résumé webpage using only semantic elements. https://username.github.io/html/resume/myresume.html
 2. Try creating a blog using only semantic elements about Taraz!
+https://username.github.io/html/blogs/taraz/taraz.html
 3. Search up more semantic elements and try to add those into your current project.
