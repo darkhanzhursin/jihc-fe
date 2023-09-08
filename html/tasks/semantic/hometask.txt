@@ -2,3 +2,19 @@
 2. Try creating a blog using only semantic elements about Taraz!
 https://username.github.io/html/blogs/taraz/taraz.html
 3. Search up more semantic elements and try to add those into your current project.
+
+Projects:
+1. Wikipedia
+2. Blog: Fashion
+3. Schedule: Festival
+4. Blog: New-York
+5. Resume
+6. Blog: Taraz
+All projects ideally should have a github page link respectively.
+
+Assessment:
+All 6 projects with local VS code folder and are on github. - Full 100%.
+5 projects with local VS code folder and are on github. - 85%.
+All 6 projects with local VS code folder. - 75%.
+5 projects with local VS code folder. - 60%.
+4 projects with local VS code folder. - 50%.
