@@ -1,0 +1,3 @@
+1. Create your virtual résumé webpage using only semantic elements.
+2. Try creating a blog using only semantic elements about Taraz!
+3. Search up more semantic elements and try to add those into your current project.
