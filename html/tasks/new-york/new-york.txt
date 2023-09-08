@@ -146,3 +146,7 @@ Inside, add the following content:
 - A <p> tag that provides one type of contact information for people to reach you at. For example:
 
 Contact information: Blogger@NYC.com
+
+
+DEPLOY
+17) Deploy it to github pages like this: https://username.github.io/blogs/new-york/new-york.html
