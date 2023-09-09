@@ -1,0 +1,10 @@
+You can use following resources for your own investigation and knowledge gaining:
+
+HTML:
+
+1. https://developer.mozilla.org/en-US/docs/Web/HTML
+2. https://www.w3schools.com/html/
+
+CSS:
+1. https://developer.mozilla.org/en-US/docs/Web/CSS
+2. https://www.w3schools.com/css/
