@@ -1,0 +1,8 @@
+RESTAURANT PROJECT 
+
+Criteries and requirements:
+1. Use semantic HTML elements: https://www.w3schools.com/html/html5_semantic_elements.asp 
+(navigation, header and footer are necessary)
+2. Use Box model for CSS: https://www.w3schools.com/css/css_boxmodel.asp
+3. Ideally final project should be on github.
+4. Be creative!
