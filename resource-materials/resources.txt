@@ -8,3 +8,8 @@ HTML:
 CSS:
 1. https://developer.mozilla.org/en-US/docs/Web/CSS
 2. https://www.w3schools.com/css/
+
+web-design:
+https://jnd.org/signifiers-not-affordances/   - This article discusses a bit of the history of thought around affordances and signifiers, and their importance in design.
+https://developer.mozilla.org/en-US/docs/Web/CSS/cursor  - cursor types
+http://ui-patterns.com/ - has many examples of solutions to common design patterns in web design.
