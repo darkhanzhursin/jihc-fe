@@ -1,0 +1,4 @@
+The resources above will help you get to the final outcome. There’s no single, 
+correct way to complete this project, so experiment and have fun!
+
+1. Publish this project on github-pages: https://username.github.io/css/flexbox/tasks/tea-project.html 
